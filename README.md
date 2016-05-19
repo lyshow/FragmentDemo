@@ -4,4 +4,4 @@
 * 更好的实现了fragment的复用，处理了一些因为activity被回收的异常；
 
 # 演示图如下
-[]{}(https://raw.githubusercontent.com/lyshow/FragmentDemo/master/FragmentDemo/art/Fragment.gif)
+![]{}(https://raw.githubusercontent.com/lyshow/FragmentDemo/master/FragmentDemo/art/Fragment.gif)
